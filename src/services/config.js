@@ -1,0 +1,1 @@
+export default URL = "https://api.cartola.globo.com"
